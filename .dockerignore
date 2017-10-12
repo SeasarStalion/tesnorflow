@@ -8,7 +8,6 @@ LICENSE
 WORKSPACE
 models.BUILD
 arm_compiler.BUILD
-configure.py
 RELEASE.md
 README.md
 ISSUE_TEMPLATE.md
